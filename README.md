@@ -1,0 +1,2 @@
+# ScrapyRedisProject
+Scrapy Distributed Project
